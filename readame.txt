@@ -1,0 +1,12 @@
+Sistema Desafio Bemol Equipe de Desenvolvimento
+
+Desenvolvido em PHP7 + MySQL5
+
+A base de dados está em desafiobemol.sql na pasta SQL
+
+O programa utilizado como servidor de Testes é o Laragon que pode ser feito download no link abaixo
+https://github.com/leokhoa/laragon/releases/download/5.0.0/laragon-wamp.exe
+
+A pasta desafio deve ser descompactata em c:\laragon\wwww
+
+A base de dados pode ser importada Usando o aplicativo HeidSql, que vem junto com o Laragon
